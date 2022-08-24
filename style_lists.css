@@ -1,0 +1,8 @@
+ol{
+	list-style-type: upper-roman;
+	text-shadow: black 12px -24px 20px;
+}
+ul{
+	list-style-type: square;
+	text-shadow: red 12px -24px 20px;
+}
