@@ -43,7 +43,7 @@ body {
     color: #fff;
 }
 
-.menu li: hover ul {
+.menu li:hover ul {
     display: block;
     opacity: 1;
         /* while hovered, drop down-menu appears
@@ -69,7 +69,7 @@ body {
     color: #b3b3b3;
 }
 
-.submenu li hover{
+.submenu li:hover {
     color: #fff;
     background-color: #5EAFDF;
 
