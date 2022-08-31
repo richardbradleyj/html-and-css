@@ -1,0 +1,25 @@
+ h1  { 
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2  {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h3  {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ p {font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 5rem;
+  }
+
+
+
+
+
+
