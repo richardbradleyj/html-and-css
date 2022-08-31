@@ -145,7 +145,7 @@ section {
 /*----------------------------------------------------
     HOME SECTION STYLES
 -----------------------------------------------------*/
-#HOME {
+#home {
     background: url(../images/back_ground.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-background-size: cover;
@@ -260,7 +260,7 @@ section {
     font-family: 'Raleway', sans-serif;
  }
 
- .reservation input [type="text"] {
+ .reservation input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
